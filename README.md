@@ -1,4 +1,3 @@
-# Restaurant_Reviews
 
 This dataset has been downloaded from Kaggle as ‘.tsv’ file.
 
